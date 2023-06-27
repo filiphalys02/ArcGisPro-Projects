@@ -8,3 +8,8 @@
 - Projekt wykonany na zajęciach z kartografii geologicznej wspomaganej komputerowo
 - Celem projektu było zdefiniowanie danych pozyskiwanych w terenie w ArcGisPro, następnie udostępnienie klasy obiektów do ArcGisOnline (w postaci 
   edytowalnej warstwy) i dodanie przykładowych pomiarów w aplikacji mobilnej Field Maps
+
+### Projekt 3 - Zajęcia terenowe w Szczawie
+- Projekt wykonany podczas zajęć terenowych w ramach kartografii geologicznej wspomaganej komputerowo w Szczawie (arkusz Rzeki)
+- Celem projektu było wykonanie pomiarów i obserwacji w terenie, a następnie przetworzenie zebranych danych i wykonanie layout'u w postaci 
+  szczegółowej mapy geologicznej wraz z objaśnieniami
