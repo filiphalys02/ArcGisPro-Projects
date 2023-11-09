@@ -13,3 +13,7 @@
 - Projekt wykonany podczas zajęć terenowych w ramach kartografii geologicznej wspomaganej komputerowo w Szczawie (arkusz Rzeki)
 - Celem projektu było wykonanie pomiarów i obserwacji w terenie, a następnie przetworzenie zebranych danych i wykonanie layout'u w postaci 
   szczegółowej mapy geologicznej wraz z objaśnieniami
+
+### Projekt 4 - Elementy szkieletowe rzęźby
+- Projekt wykonany na zajęciach z Geoinformatyki w geomorfologii
+- Celem projektu było narysowanie linii szkieletowych (grzbiety, cieki, załomy, szczyty, przełęcze, obszary płaskie), korzystając z Hillshade, Curvature, Slope
