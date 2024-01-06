@@ -17,3 +17,7 @@
 ### Projekt 4 - Elementy szkieletowe rzeźby
 - Projekt wykonany na zajęciach z Geoinformatyki w geomorfologii
 - Celem projektu było narysowanie linii szkieletowych (grzbiety, cieki, załomy, szczyty, przełęcze, obszary płaskie), korzystając z Hillshade, Curvature, Slope
+
+### Projekt 5 - Analiza teras rzecznych na podstawie DEM
+- Projekt wykonany w ramach zajęć z Geoinformatyki w geomorfologii
+- Celem projektu było opracowanie mapy wysokości względnej nad poziom rzeki i określenie wysokości teras rzecznych na podstawie DEM. 
