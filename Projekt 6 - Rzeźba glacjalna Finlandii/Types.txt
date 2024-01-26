@@ -1,0 +1,6 @@
+1: ERatio > (2*L*0.001)+2 AND L<100
+2: ERatio > (2*L*0.001)+2 AND L>100 AND L<1000
+3: ERatio > (2*L*0.001)+2 AND L>1000
+4: ERatio < (2*L*0.001)+2 AND L<800
+5: ERatio < (2*L*0.001)+2 AND L>800 AND L<1500
+6: ERatio < (2*L*0.001)+2 AND L>1500

@@ -1,0 +1,13 @@
+<ImportMXDLog>	<Messages>
+		<FileName>D:\ALPY\DEMs_ALPS\Finland\Finalnd.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>High</Severity>
+			<Description>Basemap Layers cannot be published directly to a service</Description>
+			<Code>00037</Code>
+			<ComponentName>Basemap</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>
