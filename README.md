@@ -24,4 +24,9 @@
 
 ### Projekt 6 - Rzeźba glacjalna Finlandii
 - Projekt wykonany w ramach zajęć z Geoinformatyki w geomorfologii
-- Celem projektu było utworzenie mapy ze sklasyfikowanymi formami liniowymi erozji lodowcoej na zadanym terenie w Finlandii. Formy te zostały sklasyfikowane dzięki pozyskanym paramerom (współcznnik wydłużenia form) na podstawie mapy indeksu pozycji topograficznej TPI.
+- Celem projektu było utworzenie mapy ze sklasyfikowanymi formami liniowymi erozji lodowcowej na zadanym terenie w Finlandii. Formy te zostały sklasyfikowane dzięki pozyskanym paramerom (współcznnik wydłużenia form) na podstawie mapy indeksu pozycji topograficznej TPI.
+
+### Projekt 7 - Rzeźba glacjalna Finlandii
+- Projekt wykonany w ramach zajęć z Geoinformatyki w geomorfologii
+- Celem projektu było utworzenie mapy z automatycznie sklasyfikowanymi formami liniowymi erozji lodowcowej na zadanym terenie w Finlandii i porównanie podejścia automatycznego do ręcznego wyznaczania form (Projekt 6).
+- Przebieg projektu: zapoznanie się z programem Fiji imageJ i przygotowanie w nim danych (wyznaczenie cech fizycznych form), klasyfikacja form za pomocą języka R (Rstudio) na dwa sposoby: za pomocą wzoru z projektu 6 i za pomocą algorytmu grupującego, wykonanie map wynikowych (Layout).
