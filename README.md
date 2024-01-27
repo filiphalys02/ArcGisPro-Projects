@@ -20,4 +20,8 @@
 
 ### Projekt 5 - Analiza teras rzecznych na podstawie DEM
 - Projekt wykonany w ramach zajęć z Geoinformatyki w geomorfologii
-- Celem projektu było opracowanie mapy wysokości względnej nad poziom rzeki i określenie wysokości teras rzecznych na podstawie DEM. 
+- Celem projektu było opracowanie mapy wysokości względnej nad poziom rzeki i określenie wysokości teras rzecznych na podstawie DEM.
+
+### Projekt 6 - Rzeźba glacjalna Finlandii
+- Projekt wykonany w ramach zajęć z Geoinformatyki w geomorfologii
+- Celem projektu było utworzenie mapy ze sklasyfikowanymi formami liniowymi erozji lodowcoej na zadanym terenie w Finlandii. Formy te zostały sklasyfikowane dzięki pozyskanym paramerom (współcznnik wydłużenia form) na podstawie mapy indeksu pozycji topograficznej TPI.
