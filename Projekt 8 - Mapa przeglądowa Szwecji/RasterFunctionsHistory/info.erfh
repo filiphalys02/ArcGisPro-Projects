@@ -1,0 +1,216 @@
+{
+  "version" : 1,
+  "name" : "Raster Functions History",
+  "historyItems" : [
+    {
+      "id" : "{02BB6297-9AFC-4E58-986F-C4DCEB80F65A}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{02BB6297-9AFC-4E58-986F-C4DCEB80F65A}.rft.xml",
+      "startTime" : "638533793200000000",
+      "endTime" : "638533793200000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{9BDEA981-C38D-4A3E-AC88-1180AB787F66}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{9BDEA981-C38D-4A3E-AC88-1180AB787F66}.rft.xml",
+      "startTime" : "638530936670000000",
+      "endTime" : "638530936670000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{087E06A4-C557-465A-B3BE-905DB47799EE}",
+      "type" : 1,
+      "status" : 4,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{087E06A4-C557-465A-B3BE-905DB47799EE}.rft.xml",
+      "startTime" : "638530946700000000",
+      "endTime" : "638530946700000000",
+      "validationMessages" : [
+        "The dataset variable 'Raster' is not assigned."
+      ],
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Parameter 'Raster' is missing or invalid. Bind failed in function 'Hillshade' [Hillshade Function].",
+            "Type" : 100
+          },
+          {
+            "Text" : "Failed.",
+            "Type" : 100
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{7580F11F-EB4D-4E50-A705-33FE18B9A94B}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{7580F11F-EB4D-4E50-A705-33FE18B9A94B}.rft.xml",
+      "startTime" : "638530938080000000",
+      "endTime" : "638530938080000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{F8836491-4033-4B00-818B-3EC71CDB6B63}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{F8836491-4033-4B00-818B-3EC71CDB6B63}.rft.xml",
+      "startTime" : "638533794480000000",
+      "endTime" : "638533794480000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{05F124F9-75A6-4371-8268-68E9E752C7BC}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{05F124F9-75A6-4371-8268-68E9E752C7BC}.rft.xml",
+      "startTime" : "638530946810000000",
+      "endTime" : "638530946810000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{5D77F791-D87D-4DD5-8ACA-BF4234801446}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{5D77F791-D87D-4DD5-8ACA-BF4234801446}.rft.xml",
+      "startTime" : "638533796460000000",
+      "endTime" : "638533796460000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    }
+  ]
+}
